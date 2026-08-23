@@ -1,0 +1,7 @@
+.clangd
+.cache
+.vscode
+.idea
+out
+build
+build/*
