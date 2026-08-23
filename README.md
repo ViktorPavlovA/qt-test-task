@@ -47,7 +47,7 @@
 ```bash
 
 mkdir build && cd build
-cmake .. -DCMAKE_PREFIX_PATH=/path/to/Qt/6.5.2/gcc_64
+cmake .. -DCMAKE_PREFIX_PATH=/<ваш путь до Qt>/Qt/6.5.2/gcc_64
 cmake --build . --config Release
 
 ```
